@@ -4,7 +4,7 @@
 
 |  Versão | Data | Modificação | Autor |
 |  :------: | :------: | :------: | :------: |
-| 1.0 | 31/03/2019 | Algumentação,Argumentação sobre o tema | Lieverton |
+| 1.0 | 31/03/2019 | Argumentação sobre o tema | Lieverton |
 
 ## Argumentação
 
